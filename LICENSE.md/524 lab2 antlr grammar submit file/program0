@@ -1,0 +1,8 @@
+begin
+INTEGER 	A
+PRINT	"Enter A:"
+INPUT	A
+PRINT 	"A="
+PRINTLN		A
+END
+end

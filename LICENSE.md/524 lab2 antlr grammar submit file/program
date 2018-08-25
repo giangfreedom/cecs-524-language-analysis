@@ -1,0 +1,4 @@
+begin
+PRINTLN "Hello, world!"
+END
+end
